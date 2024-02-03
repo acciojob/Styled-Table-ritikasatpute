@@ -1,1 +1,20 @@
 /* your code */
+*{
+	padding:10px;
+}
+#head{
+	
+	border-collapse:collapse;
+	text-align:left;
+	background-color:pink;
+	color:white;
+	
+}
+.one{
+	background-color:lightgray;
+}
+.two{
+	background-color:mintcream;
+}
+	
+}
